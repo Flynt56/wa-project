@@ -1,12 +1,13 @@
 @import "css/fonts.css";
 @import "css/banner.css";
 @import "css/navbar.css";
+@import "css/home.css";
 
 body,
 html {
   margin: 0;
   height: 100%;
-  background-color: gray;
+  background-color: white;
   font-family: "Roboto", sans-serif;
 }
 
