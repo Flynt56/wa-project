@@ -3,7 +3,13 @@
 
 body,
 html {
+  margin: 0;
   height: 100%;
   background-color: gray;
   font-family: "Roboto", sans-serif;
+}
+
+header {
+  display: block;
+  width: 100%;
 }
