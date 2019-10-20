@@ -1,0 +1,20 @@
+footer {
+  background-color: darkolivegreen;
+  padding: 0.1em;
+  clear: both;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+  margin: 0.5em;
+}
+
+footer img {
+  width: 16px;
+}
